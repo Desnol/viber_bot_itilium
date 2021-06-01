@@ -12,5 +12,5 @@ itsdangerous==0.24
 pip==10.0.1
 requests==2.19.1
 setuptools==39.1.0
-urllib3==1.23
+urllib3==1.26.5
 gunicorn==19.9.0

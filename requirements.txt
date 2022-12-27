@@ -11,6 +11,6 @@ idna==2.7
 itsdangerous==0.24
 pip==10.0.1
 requests==2.19.1
-setuptools==39.1.0
+setuptools==65.5.1
 urllib3==1.23
 gunicorn==19.9.0
